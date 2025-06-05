@@ -23,18 +23,14 @@ Example organization might include:
 
 ├── Basic_CRUD/
 │   ├── select_examples.sql
-│   ├── insert_examples.sql
-│   └── ...
+│   └── insert_examples.sql
 ├── Joins/
 │   ├── inner_join.sql
-│   ├── left_join.sql
-│   └── ...
+│   └── left_join.sql
 ├── Subqueries_and_CTEs/
-│   ├── correlated_subquery.sql
-│   └── ...
+│   └── correlated_subquery.sql
 ├── Window_Functions/
-│   ├── rank_function.sql
-│   └── ...
+│   └── rank_function.sql
 ├── Aggregation/
 │   └── group_by_examples.sql
 └── README.md
